@@ -1,5 +1,5 @@
 # merryhappyyy
-<!DOCTYPE html>
+
 <html lang="en">
 
 <head>
@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Adieu 2020</title>
 
-    <meta property="og:image" content=" 미리보기이미지">
+    <meta property="og:image" content="file:///Users/iseoyoung/Desktop/mail/스크린샷%202020-12-31%20오후%2011.35.12.png">
 <meta property="og:title" content="happy merry new year">
 <meta property="og:description" content="신영..코딩 해보다..."> 
 
