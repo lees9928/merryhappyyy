@@ -5,25 +5,26 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Adieu 2020</title>
+    <title>hello 2021</title>
 
     <meta property="og:image" content="file:///Users/iseoyoung/Desktop/mail/스크린샷%202020-12-31%20오후%2011.35.12.png">
 <meta property="og:title" content="happy merry new year">
-<meta property="og:description" content="신영..코딩 해보다..."> 
+<meta property="og:description" content="연하장이 도착했습니다"> 
 
 
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Stylish&display=swap" rel="stylesheet">
-
+<link rel="preconnect" href="https://fonts.gstatic.com"> 
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@500&display=swap" rel="stylesheet">
     <script src="https://s3.ap-northeast-2.amazonaws.com/materials.spartacodingclub.kr/xmas/snow.js"></script>
     
     <style>
         * {
-            font-family: 'Stylish', sans-serif;
+            font-family: 'Noto+Sans+KR:wght@500&display'
         }
     
         body {
-            background-color: #ffffff;
+            background-color="#f8d586";
         }
     
         .envelope {
@@ -55,29 +56,29 @@
         .rtan {
             background-color: white;
     
-            width: 780px;
-            height: 1280px;
+            width: 390px;
+            height: 640px;
     
             background-image: url(file:///Users/iseoyoung/Desktop/연하장1.gif);
             background-size: cover;
             background-position: center;
     
-            margin: 100px auto 0px auto;
+            margin: 80px auto 0px auto;
     
             border-radius: 100px;
             border: 5px solid white;
     
-            box-shadow: 0px 0px 10px 2px white;
+            box-shadow: 0px 10px 10px 2px white;
         }
     
         .messegebox {
             background-color: ivory;
     
-            width: 400px;
+            width: 500px;
     
             margin: auto;
     
-            color: brown;
+            color: black;
     
             padding: 30px;
     
@@ -151,9 +152,10 @@ document.getElementsByClassName("letter-open")[0].style.display = 'block'
         <div class="messegebox">
             dear you. <br />
             happy new year! <br />
-            좋은 하루 좋은 한 해 보내. <br />
+            첫 연하장이라 이런 저런 시도를 해봤어요. 어떤가요? <br />
+            좋은 하루 좋은 한 해 보내세요. <br />
             늘 고맙습니다. 건강하세요!  <br />
-            연말에 다 같이 못 봐서 아쉽다 <br />
+             <br />
             <p class="from">2021.12.31 서영 씀</p>
         </div>
 
