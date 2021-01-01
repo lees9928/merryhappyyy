@@ -14,7 +14,7 @@
             width: 345px;
             height: 130px;
 
-            background-image: url(https://postfiles.pstatic.net/MjAyMTAxMDFfOTIg/MDAxNjA5NDcxMzgwMjM0.PIiulNL9f14y-GaqIY8O3s0O4uBaryopu0vbFI1nmKIg.CGw_eQ5yL_5ekEm0fKfxxs0iP9_fLbEMDVwq9WFq10sg.PNG.2sy25/KakaoTalk_20210101_121407190.png?type=w580);
+            background-image: url(hhttps://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbjViYh%2FbtqSgMV6gtD%2F1mj9INiByQHDYakK5HZrn0%2Fimg.png);
             background-size: cover;
             background-position: left;
 
