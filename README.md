@@ -27,7 +27,7 @@
             width: 150px;
             height: 100px;
 
-            background-image: url(https://postfiles.pstatic.net/MjAyMTAxMDFfMjk3/MDAxNjA5NDcyMzQ5NTI2.q8-hBgk7GlxbLuf5Z4BYK8qOODj0uZuGpVRuLIbaA1wg.xzRgGoYTsu4Q-4YC4WTSdhmHy1j7W9XBLN3hxMgJHgIg.PNG.2sy25/%ED%88%AC%EB%AA%85%ED%8E%B8%EC%A7%80.png?type=w580);
+            background-image: url(https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FuVncS%2FbtqSdtCuGWN%2F6oDPk2UVL8xljI8wiw9qRK%2Fimg.png);
             background-size: cover;
             background-position: center;
 
@@ -40,7 +40,7 @@
             width: 150px;
             height: 100px;
 
-            background-image: url(https://postfiles.pstatic.net/MjAyMTAxMDFfMjk3/MDAxNjA5NDcyMzQ5NTI2.q8-hBgk7GlxbLuf5Z4BYK8qOODj0uZuGpVRuLIbaA1wg.xzRgGoYTsu4Q-4YC4WTSdhmHy1j7W9XBLN3hxMgJHgIg.PNG.2sy25/%ED%88%AC%EB%AA%85%ED%8E%B8%EC%A7%80.png?type=w580);
+            background-image: url(https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FuVncS%2FbtqSdtCuGWN%2F6oDPk2UVL8xljI8wiw9qRK%2Fimg.png);
             background-size: cover;
             background-position: center;
 
@@ -53,7 +53,7 @@
             width: 150px;
             height: 100px;
 
-            background-image: url(https://postfiles.pstatic.net/MjAyMTAxMDFfMjk3/MDAxNjA5NDcyMzQ5NTI2.q8-hBgk7GlxbLuf5Z4BYK8qOODj0uZuGpVRuLIbaA1wg.xzRgGoYTsu4Q-4YC4WTSdhmHy1j7W9XBLN3hxMgJHgIg.PNG.2sy25/%ED%88%AC%EB%AA%85%ED%8E%B8%EC%A7%80.png?type=w580);
+            background-image: url(https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FuVncS%2FbtqSdtCuGWN%2F6oDPk2UVL8xljI8wiw9qRK%2Fimg.png);
             background-size: cover;
             background-position: center;
 
@@ -66,7 +66,7 @@
             width: 150px;
             height: 100px;
 
-            background-image: url(https://postfiles.pstatic.net/MjAyMTAxMDFfMjk3/MDAxNjA5NDcyMzQ5NTI2.q8-hBgk7GlxbLuf5Z4BYK8qOODj0uZuGpVRuLIbaA1wg.xzRgGoYTsu4Q-4YC4WTSdhmHy1j7W9XBLN3hxMgJHgIg.PNG.2sy25/%ED%88%AC%EB%AA%85%ED%8E%B8%EC%A7%80.png?type=w580);
+            background-image: url(https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FuVncS%2FbtqSdtCuGWN%2F6oDPk2UVL8xljI8wiw9qRK%2Fimg.png);
             background-size: cover;
             background-position: center;
 
