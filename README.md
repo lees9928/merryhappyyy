@@ -18,7 +18,7 @@
             background-size: cover;
             background-position: left;
 
-            margin: 20px auto 20px 20px;
+            margin: 0px auto 0px 0px;
 
             cursor: pointer;
         }
