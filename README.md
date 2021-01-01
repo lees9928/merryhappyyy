@@ -7,13 +7,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>hello 2021</title>
 
-    <meta property="og:image" content=<iframe title="'backup'에서 업로드한 동영상" width="640" height="360" src="https://play-tv.kakao.com/embed/player/cliplink/415400496?service=player_share&autoplay=1" allowfullscreen frameborder="0" scrolling="no" allow="autoplay"></iframe>
-<meta property="og:title" content="happy merry new year">
-<meta property="og:description" content="연하장이 도착했습니다"> 
+    <meta property="og:image" content="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fb8LwmH%2FbtqSgMV4iib%2FUTADzNSNJF73l7gBXfRy7K%2Fimg.png"
+    <meta property="og:title" content="happy merry new year">
+    <meta property="og:description" content="연하장이 도착했습니다"> 
 
 
-    <link rel="preconnect" href="https://fonts.gstatic.com">
-    <link href="https://fonts.googleapis.com/css2?family=Stylish&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.gstatic.com"> 
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@500&display=swap" rel="stylesheet">
     <script src="https://s3.ap-northeast-2.amazonaws.com/materials.spartacodingclub.kr/xmas/snow.js"></script>
     
     <style>
@@ -57,7 +57,7 @@
             width: 390px;
             height: 640px;
     
-            background-image: url(file:///Users/iseoyoung/Desktop/연하장1.gif);
+            background-image:<iframe title="'backup'에서 업로드한 동영상" width="640" height="360" src="https://play-tv.kakao.com/embed/player/cliplink/415400496?service=player_share&autoplay=1" allowfullscreen frameborder="0" scrolling="no" allow="autoplay"></iframe>
             background-size: cover;
             background-position: center;
     
