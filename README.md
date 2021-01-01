@@ -1,39 +1,41 @@
-# merryhappyyy
-
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>hello 2021</title>
+    <title>Adieu 2020</title>
 
-  
-    <meta property="og:title" content="happy merry new year">
-    <meta property="og:description" content="연하장이 도착했습니다"> 
+    <meta property="og:image" content="https://www.history.com/.image/c_fill%2Ccs_srgb%2Cfl_progressive%2Ch_400%2Cq_auto:good%2Cw_620/MTY4ODE4ODA4MzY1MDAwNDY1/christmas-gettyimages-184652817.jpg">
+<meta property="og:title" content="크리스마스는 끝났어">
+<meta property="og:description" content="신영..코딩 해보다..."> 
+
+<link rel="shortcut icon" href="data:image/png;base64,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">
 
 
-    <link rel="preconnect" href="https://fonts.gstatic.com"> 
-    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@500&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Stylish&display=swap" rel="stylesheet">
+
     <script src="https://s3.ap-northeast-2.amazonaws.com/materials.spartacodingclub.kr/xmas/snow.js"></script>
     
     <style>
         * {
-            font-family: 'Noto+Sans+KR:wght@500&display'
+            font-family: 'Stylish', sans-serif;
         }
     
         body {
-            background-color="#f8d586";
+            background-color: #9b070f;
         }
     
         .envelope {
-                    width: 1920px;
-            height: 1080px;
+                    width: 200px;
+            height: 200px;
     
-            background-image: url(file:///Users/iseoyoung/Desktop/mail/mail.001.png);
+            background-image: url(https://pngimg.com/uploads/envelope/envelope_PNG18366.png);
             background-size: cover;
             background-position: center;
     
-            margin: 0px auto 0px auto;
+            margin: 200px auto 0px auto;
 
             cursor: pointer;
         }
@@ -54,29 +56,29 @@
         .rtan {
             background-color: white;
     
-            width: 390px;
-            height: 640px;
+            width: 200px;
+            height: 200px;
     
-            background-image:<iframe title="'backup'에서 업로드한 동영상" width="640" height="360" src="https://play-tv.kakao.com/embed/player/cliplink/415400496?service=player_share&autoplay=1" allowfullscreen frameborder="0" scrolling="no" allow="autoplay"></iframe>
+            background-image: url(https://s3.ap-northeast-2.amazonaws.com/materials.spartacodingclub.kr/xmas/Webp.net-gifmaker.gif);
             background-size: cover;
             background-position: center;
     
-            margin: 80px auto 0px auto;
+            margin: 100px auto 0px auto;
     
             border-radius: 100px;
             border: 5px solid white;
     
-            box-shadow: 0px 10px 10px 2px white;
+            box-shadow: 0px 0px 10px 2px white;
         }
     
         .messegebox {
             background-color: ivory;
     
-            width: 500px;
+            width: 400px;
     
             margin: auto;
     
-            color: black;
+            color: brown;
     
             padding: 30px;
     
@@ -130,8 +132,8 @@ document.getElementsByClassName("letter-open")[0].style.display = 'block'
         }
 
         function go_rtan() {
-        alert('dear you,')
-    window.location.href='file:///Users/iseoyoung/Desktop/연하장1.gif'
+        alert('앗, 어떻게 찾았지!')
+    window.location.href='https://spartacodingclub.kr?f_name=%EC%9D%B4%EC%8B%A0%EC%98%81&f_uid=5fe1d4a4a258e367c807514c'
         }
     </script>
 
@@ -146,15 +148,14 @@ document.getElementsByClassName("letter-open")[0].style.display = 'block'
 
     <div class="letter-open">
         <div class="rtan" onclick="go_rtan()"></div>
-        <h1> happy merry new 2021 </h1>
+        <h1>Adieu,2020!</h1>
         <div class="messegebox">
-            dear you. <br />
-            happy new year! <br />
-            첫 연하장이라 이런 저런 시도를 해봤어요. 어떤가요? <br />
-            좋은 하루 좋은 한 해 보내세요. <br />
-            늘 고맙습니다. 건강하세요!  <br />
-             <br />
-            <p class="from">2021.12.31 서영 씀</p>
+            친구들에게. <br />
+            올해 이런저런 일이 많았는데 <br />
+            너희 덕분에 하나도 힘들지 않았어 <br />
+            내년에도 우리 우정 변치말자 <br />
+            연말에 다 같이 못 봐서 아쉽다 <br />
+            <p class="from">2020 12.26 tlsdud</p>
         </div>
 
     </div>
