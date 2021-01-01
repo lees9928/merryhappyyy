@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>hello 2021</title>
 
-    <meta property="og:image" content="file:///Users/iseoyoung/Desktop/mail/스크린샷%202020-12-31%20오후%2011.35.12.png">
+    <meta property="og:image" content=<iframe title="'backup'에서 업로드한 동영상" width="640" height="360" src="https://play-tv.kakao.com/embed/player/cliplink/415400496?service=player_share&autoplay=1" allowfullscreen frameborder="0" scrolling="no" allow="autoplay"></iframe>
 <meta property="og:title" content="happy merry new year">
 <meta property="og:description" content="연하장이 도착했습니다"> 
 
