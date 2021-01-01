@@ -37,7 +37,7 @@
         }
         
         .letter2 {
-            width: 250px;
+            width: 150px;
             height: 100px;
 
             background-image: url(https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FuVncS%2FbtqSdtCuGWN%2F6oDPk2UVL8xljI8wiw9qRK%2Fimg.png);
@@ -51,7 +51,7 @@
 
         .letter3 {
             width: 150px;
-            height: 120px;
+            height: 100px;
 
             background-image: url(https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FuVncS%2FbtqSdtCuGWN%2F6oDPk2UVL8xljI8wiw9qRK%2Fimg.png);
             background-size: cover;
