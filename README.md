@@ -12,7 +12,7 @@
        
         .main {
             width: 550px;
-            height: 180px;
+            height: 200px;
 
             background-image: url(https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FqEe6W%2FbtqRVqgAKgs%2FqqM6kEmgMJHtpmdltiVD6k%2Fimg.png);
             background-size: cover;
@@ -31,7 +31,7 @@
             background-size: cover;
             background-position: center;
 
-            margin: 100px auto 0px 100px;
+            margin: 30px auto 0px 100px;
 
             cursor: pointer;
         }
