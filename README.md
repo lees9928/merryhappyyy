@@ -18,7 +18,7 @@
             background-size: cover;
             background-position: left;
 
-            margin: 50px auto 50px 50px;
+            margin: 20px auto 20px 20px;
 
             cursor: pointer;
         }
@@ -31,7 +31,7 @@
             background-size: cover;
             background-position: center;
 
-            margin: 500px auto 0px 100px;
+            margin: 200px auto 0px 100px;
 
             cursor: pointer;
         }
@@ -44,7 +44,7 @@
             background-size: cover;
             background-position: center;
 
-            margin: 500px auto 0px 100px;
+            margin: 100px auto 200px 100px;
 
             cursor: pointer;
         }
