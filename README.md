@@ -144,6 +144,7 @@ document.getElementsByClassName("letter-open")[0].style.display = 'block'
         function open_letter() {
         <div class="envelope" onclick="open_letter()"></div>
         <h2 class="envelope-msg">Open!</h2>
+        }
     </div>
 
     <div class="letter-open">
