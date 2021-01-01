@@ -14,7 +14,7 @@
             width: 345px;
             height: 130px;
 
-            background-image: url(hhttps://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbjViYh%2FbtqSgMV6gtD%2F1mj9INiByQHDYakK5HZrn0%2Fimg.png);
+            background-image: url(https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbjViYh%2FbtqSgMV6gtD%2F1mj9INiByQHDYakK5HZrn0%2Fimg.png);
             background-size: cover;
             background-position: left;
 
